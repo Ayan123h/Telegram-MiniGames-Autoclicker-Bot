@@ -17,14 +17,14 @@ class Settings(BaseSettings):
 
 
     ACTIVE_BOTS: dict[str, dict] = {
-        "blum": {"Active": True, "REF_ID": "ref_oDxBEC33Wa"},
-        "catsgang": {"Active": False, "REF_ID": "crQMLYMdqEEW4rV-ui-1h"},
-        "catsvsdogs": {"Active": True, "REF_ID": "558455838"},
-        "cexio": {"Active": True, "REF_ID": "1716374168523141"},
-        "goats": {"Active": True, "REF_ID": "37d06dc8-fa31-4272-b9df-5f74d12cb6f8"},
-        "major": {"Active": True, "REF_ID": "558455838"},
-        "notpixel": {"Active": True, "REF_ID": "f558455838"},
-        "tomarket": {"Active": True, "REF_ID": "000079hx"}
+        "blum": {"Active": True, "REF_ID": ""},
+        "catsgang": {"Active": False, "REF_ID": ""},
+        "catsvsdogs": {"Active": True, "REF_ID": ""},
+        "cexio": {"Active": True, "REF_ID": ""},
+        "goats": {"Active": True, "REF_ID": ""},
+        "major": {"Active": True, "REF_ID": ""},
+        "notpixel": {"Active": True, "REF_ID": ""},
+        "tomarket": {"Active": True, "REF_ID": ""}
     }
     
 
